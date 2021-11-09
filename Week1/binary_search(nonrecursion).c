@@ -34,6 +34,6 @@ enter the array elements:1 2 3 4 5
 enter the element to be searched:2
 element found at 2 position
 nter the number of elements: 5
-Enter array elements: 1 2 3 4 5 
+Enter array elements:  4 5 
 Element to be searched: 6
 Element found not found */
